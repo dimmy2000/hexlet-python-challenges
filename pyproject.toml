@@ -7,6 +7,8 @@ authors = ["Dmitry Samoylenko <dimsamoylenko@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.9"
 pytest = "^6.2.4"
+pre-commit = "^2.13.0"
+wemake-python-styleguide = "^0.15.3"
 
 [tool.poetry.dev-dependencies]
 
