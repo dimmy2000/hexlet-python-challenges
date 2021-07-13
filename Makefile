@@ -1,4 +1,4 @@
 install:
     poetry install
 test:
-    pytest solution.py tests
+    poetry run python -m pytest tests
