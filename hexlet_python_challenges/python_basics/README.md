@@ -1,6 +1,6 @@
 [Back](../../README.md)
 
-## Challenges
+## Python basics challenges
 
 1. [Fibonacci](fibonacci/README.md)
 1. [Binary sum](binary_sum/README.md)

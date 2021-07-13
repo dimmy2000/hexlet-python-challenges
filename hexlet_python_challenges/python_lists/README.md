@@ -1,0 +1,21 @@
+[Back](../../README.md)
+
+## Python lists challenges
+
+1. [Ascending sequence](ascending_sequence/README.md)
+1. [The longest substring](longest_substring/README.md)
+1. [~~Moneybox~~](http://shorturl.at/apsIU)
+1. [~~Matrix mirroring~~](http://shorturl.at/apsIU)
+1. [~~Pascal triangle~~](http://shorturl.at/apsIU)
+1. [Matrix multiplication](matrix_multiplication/README.md)
+1. [~~Reverse polish notation~~](http://shorturl.at/apsIU)
+1. [Chunk](chunk/README.md)
+1. [Hamming weight](hamming_weight/README.md)
+1. [~~Sum of intervals~~](http://shorturl.at/apsIU)
+1. [~~Summary ranges~~](http://shorturl.at/apsIU)
+1. [Enlarge image](enlarge_image/README.md)
+1. [Snail](snail/README.md)
+1. [Compare versions](compare_versions/README.md)
+1. [~~Stream chunking~~](http://shorturl.at/apsIU)
+1. [Length of last word](length_of_last_word/README.md)
+1. [~~Matrix transposing~~](http://shorturl.at/apsIU)

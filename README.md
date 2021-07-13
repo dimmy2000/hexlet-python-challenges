@@ -18,7 +18,7 @@ from the challenge folder.
 ### Courses
 
 1. [Python Basics](hexlet_python_challenges/python_basics/README.md)
-1. [Python Lists](http://shorturl.at/apsIU)
+1. [Python Lists](hexlet_python_challenges/python_lists/README.md)
 1. [Python Dicts](http://shorturl.at/apsIU)
 1. [Python Functions](http://shorturl.at/apsIU)
 1. [Python Declarative Programming](http://shorturl.at/apsIU)

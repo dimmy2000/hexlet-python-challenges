@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "hexlet-python-challenges"
-version = "0.1.0"
-description = ""
+version = "0.1.1"
+description = "This is a memorise of the right solutions for the hexlet python challenges"
 authors = ["Dmitry Samoylenko <dimsamoylenko@gmail.com>"]
 
 [tool.poetry.dependencies]
