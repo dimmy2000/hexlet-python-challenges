@@ -19,6 +19,6 @@ from the challenge folder.
 
 1. [Python Basics](hexlet_python_challenges/python_basics/README.md)
 1. [Python Lists](hexlet_python_challenges/python_lists/README.md)
-1. [Python Dicts](http://shorturl.at/apsIU)
+1. [Python Dicts](hexlet_python_challenges/python_dicts/README.md)
 1. [Python Functions](http://shorturl.at/apsIU)
 1. [Python Declarative Programming](http://shorturl.at/apsIU)
