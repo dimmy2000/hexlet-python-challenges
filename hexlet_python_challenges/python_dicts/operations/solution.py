@@ -3,11 +3,11 @@ def gen_diff(data1, data2):
     result = {}
     for key in keys:
         if key not in data1:
-            result[key] = 'added'
+            result[key] = "added"
         elif key not in data2:
-            result[key] = 'deleted'
+            result[key] = "deleted"
         elif data1[key] == data2[key]:
-            result[key] = 'unchanged'
+            result[key] = "unchanged"
         else:
-            result[key] = 'changed'
+            result[key] = "changed"
     return result
